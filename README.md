@@ -91,14 +91,6 @@ s[n] = G · e[n] − Σ_{k=1..10} a_k · s[n−k]
 
 ## Results
 
-Add your outputs here once the repository is set up, for example:
-
-| Stage | Preview |
-|-------|---------|
-| Original vs. synthesized waveform | `docs/images/waveform_comparison.png` |
-| Spectrum before / after decimation | `docs/images/spectrum_decimation.png` |
-| Autocorrelation comparison | `docs/images/autocorrelation.png` |
-
 Audio samples: [`audio/original.wav`](audio/original.wav), [`audio/decimated_8k.wav`](audio/decimated_8k.wav), [`audio/synthesized.wav`](audio/synthesized.wav).
 
 ---
